@@ -6,7 +6,7 @@ As a Product Manager for an inspection software company, you are leading a team 
 
 ## Deliverables
 
-Please create a brief plan for how you hope to accomplish functionality to allows multiple users to simultaneously edit portions of a report, including architectural/data diagrams and 1-2 user stories. 
+Please create a brief plan for how you hope to accomplish functionality that allows multiple users to simultaneously edit portions of a report, including architectural/data diagrams and 1-2 user stories. 
 
 Start by identifying and listing issues or questions that you may need to address as a PM. If necessary, make an assumption, clearly state what assumption you made, and proceed with writing the ticket. There is no single correct way of approaching the problem and there are no hidden gotchas — just think about what information a developer may need from you in order to complete the task.
 
